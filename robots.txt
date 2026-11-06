@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammadhadijavidi.github.io/sitemap.xml
